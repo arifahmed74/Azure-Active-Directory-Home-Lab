@@ -72,8 +72,8 @@ Server promoted to Domain Controller creating the `itlab.local` domain.
 ## Active Directory Configuration
 
 ### Active Directory Users and Computers
+<img width="793" height="596" alt="Screenshot 2026-02-18 at 3 48 58 PM" src="https://github.com/user-attachments/assets/70abf823-c762-42dd-ac46-af5866f46c74" />
 
-<img width="757" height="527" alt="Screenshot 2026-02-18 at 1 47 42 PM" src="https://github.com/user-attachments/assets/38349e3c-ee21-4035-9bf9-e332c8c54f1f" />
 
 
 **Description:**
@@ -93,6 +93,7 @@ Department-based OU structure simulating enterprise organization.
 
 ### User Account Creation
 
+<img width="1280" height="712" alt="Screenshot 2026-02-18 at 1 50 24 PM" src="https://github.com/user-attachments/assets/df075569-e175-415f-b068-186eb4699c01" />
 
 
 **Description:**
