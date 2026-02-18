@@ -52,8 +52,7 @@ Windows Server 2022 virtual machine deployed using Azure Free Trial subscription
 ## Domain Controller Configuration
 
 ### Server Manager Dashboard
-
-<img width="1272" height="717" alt="Screenshot 2026-02-18 at 12 49 23 PM" src="https://github.com/user-attachments/assets/0645df0d-ebb4-438e-9319-bc4b364d7b07" />
+<img width="1221" height="525" alt="dashboard manager" src="https://github.com/user-attachments/assets/f951e58e-b66d-4e48-83eb-f17b43bfc528" />
 
 
 **Description:**
