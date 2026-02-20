@@ -127,6 +127,7 @@ User accounts provisioned and managed within Active Directory.
 <img width="747" height="532" alt="addeding members in IT Support group" src="https://github.com/user-attachments/assets/91630720-9ef9-4fce-b254-c893b0d3308e" />
 <img width="779" height="564" alt="adding shr into HR" src="https://github.com/user-attachments/assets/37ccf557-6e9f-4659-bbf9-d9acd2a23714" />
 <img width="747" height="532" alt="addeding members in IT Support group" src="https://github.com/user-attachments/assets/9ab2a104-4df5-4eb6-a959-d811af047c5b" />
+<img width="768" height="521" alt="mfinance added to IT" src="https://github.com/user-attachments/assets/ba1dfedc-0370-4e53-97b1-7a3c8cc8ac8a" />
 
 **Description:**
 Role-Based Access Control (RBAC) implemented using domain security groups:
