@@ -122,8 +122,11 @@ User accounts provisioned and managed within Active Directory.
 ## Security Groups (Role-Based Access Control)
 
 ### Security Groups
-
-![Security Groups](screenshots/security-groups.png)
+<img width="769" height="543" alt="creating IT support object group" src="https://github.com/user-attachments/assets/c6df9222-f551-4a68-a678-e5638547db23" />
+<img width="807" height="575" alt="it group created" src="https://github.com/user-attachments/assets/ab5b66b6-a3f9-442b-9d9d-049c78c638a7" />
+<img width="747" height="532" alt="addeding members in IT Support group" src="https://github.com/user-attachments/assets/91630720-9ef9-4fce-b254-c893b0d3308e" />
+<img width="779" height="564" alt="adding shr into HR" src="https://github.com/user-attachments/assets/37ccf557-6e9f-4659-bbf9-d9acd2a23714" />
+<img width="747" height="532" alt="addeding members in IT Support group" src="https://github.com/user-attachments/assets/9ab2a104-4df5-4eb6-a959-d811af047c5b" />
 
 **Description:**
 Role-Based Access Control (RBAC) implemented using domain security groups:
@@ -170,6 +173,7 @@ Group Policy Management Console used to enforce centralized security configurati
 <img width="1041" height="519" alt="notepad users for script" src="https://github.com/user-attachments/assets/e1f8e548-8b31-4852-af21-02800a06a661" />
 <img width="975" height="507" alt="user created via script" src="https://github.com/user-attachments/assets/5e2bf183-2e4e-46c8-bce2-0cdc7ec34220" />
 <img width="758" height="523" alt="users added after script was succesful" src="https://github.com/user-attachments/assets/6c3eebb8-fe82-40a0-8008-1dd2b7d85f05" />
+
 ### Automated User Provisioning
 
 
