@@ -139,8 +139,17 @@ Permissions are assigned to groups rather than individual users, reflecting ente
 ## Group Policy Management
 
 ### Group Policy Console
-
-![Group Policy](screenshots/group-policy.png)
+<img width="785" height="562" alt="group mgmt editor policies " src="https://github.com/user-attachments/assets/de0e1312-6ebe-489a-8f3a-d52076362f17" />
+<img width="759" height="548" alt="new gpo company security policy" src="https://github.com/user-attachments/assets/103fca1a-3354-47cd-8cc4-6238c011f1ba" />
+<img width="785" height="562" alt="min password length" src="https://github.com/user-attachments/assets/33b34cd5-284c-4756-950b-8d32eba9d575" />
+<img width="798" height="569" alt="password complexity " src="https://github.com/user-attachments/assets/446eac3d-9dda-423e-9bf2-709021633fd0" />
+<img width="791" height="581" alt="account lockout threshold " src="https://github.com/user-attachments/assets/99df84a7-e27b-4bda-bec7-1036955d2e0b" />
+<img width="783" height="557" alt="account lockout duration" src="https://github.com/user-attachments/assets/6c55e7c3-e77c-4d60-b70f-dae86850f6cb" />
+<img width="787" height="561" alt="account policy , password polcies " src="https://github.com/user-attachments/assets/53977600-e230-4cba-bb64-379d79b900b4" />
+<img width="788" height="564" alt="min password age" src="https://github.com/user-attachments/assets/fb2a6987-7137-4921-81f4-2b69d490b586" />
+<img width="788" height="569" alt="reset acount lockout counter" src="https://github.com/user-attachments/assets/ad071af9-6b0b-4b1e-893d-e1bb043d3792" />
+<img width="749" height="533" alt="reset password" src="https://github.com/user-attachments/assets/dc5bd361-fb78-4452-92bc-2a15d17be7fb" />
+<img width="977" height="507" alt="GPU update" src="https://github.com/user-attachments/assets/f039b124-48c0-4da9-ba09-25c4ce0fc0b6" />
 
 **Description:**
 Group Policy Management Console used to enforce centralized security configurations.
@@ -156,10 +165,13 @@ Group Policy Management Console used to enforce centralized security configurati
 ---
 
 ## PowerShell Automation
-
+<img width="788" height="596" alt="scripts folfer in c drive" src="https://github.com/user-attachments/assets/6f396b9d-f4f2-4e4c-8154-6a82ca5ac012" />
+<img width="972" height="542" alt="scriptfile notepad" src="https://github.com/user-attachments/assets/e4c61a70-4e26-4ae6-80f3-f46c4f44d406" />
+<img width="1041" height="519" alt="notepad users for script" src="https://github.com/user-attachments/assets/e1f8e548-8b31-4852-af21-02800a06a661" />
+<img width="975" height="507" alt="user created via script" src="https://github.com/user-attachments/assets/5e2bf183-2e4e-46c8-bce2-0cdc7ec34220" />
+<img width="758" height="523" alt="users added after script was succesful" src="https://github.com/user-attachments/assets/6c3eebb8-fe82-40a0-8008-1dd2b7d85f05" />
 ### Automated User Provisioning
 
-![PowerShell Automation](screenshots/powershell-automation.png)
 
 **Description:**
 Developed a PowerShell script to automate Active Directory user creation using CSV input.
